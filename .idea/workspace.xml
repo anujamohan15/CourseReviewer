@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf432446-bf96-4591-b9a0-5d501543a902" name="Default Changelist" comment="" />
+    <list default="true" id="bf432446-bf96-4591-b9a0-5d501543a902" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admins/manage/users/btn_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/admins/manage/users/btn_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,10 +31,14 @@
     <expand />
     <select />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1alHaEg4YlnTgqirCBTCmRaFLrG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -37,6 +46,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -78,6 +88,9 @@
       <workItem from="1587406399364" duration="879000" />
       <workItem from="1587408538141" duration="997000" />
       <workItem from="1587428040975" duration="575000" />
+      <workItem from="1587489471555" duration="1051000" />
+      <workItem from="1587502038576" duration="42000" />
+      <workItem from="1587502140264" duration="417000" />
     </task>
     <servers />
   </component>
@@ -97,17 +110,17 @@
       <screen x="0" y="23" width="1680" height="963" />
     </state>
     <state x="597" y="382" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1680.963@0.23.1680.963" timestamp="1587398039585" />
-    <state x="535" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1587428041353">
-      <screen x="0" y="23" width="1680" height="963" />
+    <state x="535" y="362" key="com.intellij.ide.util.TipDialog" timestamp="1587502140906">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="535" y="370" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1587393938085" />
-    <state x="535" y="362" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1587342833946" />
+    <state x="535" y="362" key="com.intellij.ide.util.TipDialog/0.23.1680.961@0.23.1680.961" timestamp="1587502140906" />
     <state x="535" y="362" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1587428041353" />
-    <state x="478" y="149" width="827" height="710" key="find.popup" timestamp="1587429871325">
-      <screen x="0" y="23" width="1680" height="963" />
+    <state x="478" y="149" width="827" height="708" key="find.popup" timestamp="1587489943352">
+      <screen x="0" y="23" width="1680" height="961" />
     </state>
     <state x="478" y="137" width="827" height="775" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1587390250019" />
-    <state x="478" y="149" width="827" height="708" key="find.popup/0.23.1680.961@0.23.1680.961" timestamp="1587312119761" />
+    <state x="478" y="149" width="827" height="708" key="find.popup/0.23.1680.961@0.23.1680.961" timestamp="1587489943352" />
     <state x="478" y="149" width="827" height="710" key="find.popup/0.23.1680.963@0.23.1680.963" timestamp="1587429871325" />
     <state x="488" y="232" key="run.anything.popup" timestamp="1587317207994">
       <screen x="0" y="23" width="1680" height="963" />
