@@ -1,5 +1,3 @@
-Simple- Course Reviewer System
-
 
 
 
